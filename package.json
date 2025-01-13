@@ -26,7 +26,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
+    "@edx/brand": "git+https://github.com/Haseeb-Ahmed-Spectreco/brand-edx.org.git#master",
     "@edx/browserslist-config": "^1.1.0",
     "@edx/frontend-component-header": "^5.6.0",
     "@edx/frontend-enterprise-hotjar": "3.0.0",
